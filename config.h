@@ -1,0 +1,10 @@
+int get_screen_width();
+int get_screen_height();
+int get_earth_height();
+int get_levels_width();
+int get_levels_count();
+int get_step_interval();
+int get_frame_rate();
+int get_mario_speed();
+int get_mario_jump_speed();
+int get_mario_hidden_time();
